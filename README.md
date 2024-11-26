@@ -1,5 +1,5 @@
 # SoftwareEngineering--DataStructures
-- This project has been creted while practising the data structures.
+- This project has been created while practising the data structures.
   
 - Main folder has DataStructures.pdf that explains what data structure and its types.
 
